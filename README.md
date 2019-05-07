@@ -1,5 +1,5 @@
 # define function fact(n):
-def fact(n):
+ def fact(n):
 # variable  f  is equal to  value 1 
     f = 1
 # For loop for Factorial in Python
@@ -7,7 +7,7 @@ def fact(n):
         f = f*i
     return f
 # x is value for main.py
-x = 4
+ x = 4
 # call function
-result = fact(x)
-print(result)
+ result = fact(x)
+ print(result)
