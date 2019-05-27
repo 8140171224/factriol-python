@@ -11,3 +11,9 @@
 # call function
     result = fact(x)
     print(result)
+
+# Information
+
+## BY aakash padhiyar
+
+## 8140171224
